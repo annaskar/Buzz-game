@@ -1,2 +1,2 @@
-# buzz-game-final
+# buzz-game
 the final game
